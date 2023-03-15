@@ -10,8 +10,8 @@ body{
 .container{
     display: grid;;
    place-content: center;
-    margin:50px 450px;
-    padding: 70px;
+    margin:50px 50px;
+    padding: 70px 70px;
     background-image: url(./images/bg-pattern-top-mobile.svg) ;
     background-repeat: no-repeat;
 
