@@ -10,11 +10,10 @@ body{
 .container{
     display: grid;;
    place-content: center;
-    margin:50px 50px;
-    padding: 70px 70px;
+    margin:60px 20px;
+    padding: 100px 150px;
     background-image: url(./images/bg-pattern-top-mobile.svg) ;
     background-repeat: no-repeat;
-
 }
 .services{
     display: flex;
@@ -22,7 +21,8 @@ body{
     }
 .feedback{
 text-align: start;
-padding-right: 100px;
+padding-right: 10px;
+margin: 10px;
 color:hsl(303, 10%, 53%) ;
 }
 .feedback h1{
